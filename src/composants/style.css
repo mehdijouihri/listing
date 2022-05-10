@@ -1,0 +1,14 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+    color:brown
+  }
+.form-row{
+  display: flex;
+  justify-content:center;
+  justify-content: space-evenly;
+}
+i{
+  color: blueviolet;
+  background-color: aqua;
+}
