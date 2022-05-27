@@ -1,8 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import BookView from "./composants/bookView";
-// import "./styles.css";
-
+import BookView from "./composants/AddName";
 function App() {
   return (
     <div className="App">
